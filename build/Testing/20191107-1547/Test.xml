@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-c++"
+	BuildStamp="20191107-1547-Experimental"
+	Name="MacBookPro-sorgre.local"
+	Generator="ctest-3.15.5"
+	CompilerName="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++"
+	CompilerVersion="11.0.0.11000033"
+	OSName="Mac OS X"
+	Hostname="usb-nbsorgre.imm.dtu.dk"
+	OSRelease="10.15.1"
+	OSVersion="19B88"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="158"
+	ProcessorCacheSize="32768"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2048"
+	TotalPhysicalMemory="16384"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="2900"
+	>
+	<Testing>
+		<StartDateTime>Nov 07 16:53 CET</StartDateTime>
+		<StartTestTime>1573142016</StartTestTime>
+		<TestList>
+			<Test>./List_all_screens</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>List all screens</Name>
+			<Path>.</Path>
+			<FullName>./List_all_screens</FullName>
+			<FullCommandLine>/Users/sorgre/workspace/src/screencontrol/build/screencontrol-test "List all screens"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>10.3746</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/Users/sorgre/workspace/src/screencontrol/build/screencontrol-test "List all screens"</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJytk01vwyAMhu/8Ch83aYoITcjHudpp0i67T6xxCxJNKnDW9t+PbNMGkxJF1W7Aw2u/BvvRWELnW3gynkBZC37nEHvPtsafrLpC08JRmf77HO7wEgS9svfsbDrSLWyKgj+ARnPQ1EIedswNpMgMfQscOjwEoWcO9w69fnWKsAXJ2TNpdBDOBjtOl4MJBjAf9Ifloo4ZF0XEwu6XVbJehWoeBZScryEyNljUq8iicxmnykWcK29Eoqv/gyVeKhGhStxQ2o02klxlJVcZFKWcDbjYOUm2lP2JuaBLrMw3yFIrJqU1cvZbyk38IKG0uGpez7FSirnGklXyMVmWsReN0xgSDHsIMwn0uR7pNBKclQ/sOLxjB970OwRDgJcdYue/LutpqgfbTeqpZHi7hgAZ+wDP/Tx+====</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>[list screens]</Label>
+			</Labels>
+		</Test>
+		<EndDateTime>Nov 07 16:53 CET</EndDateTime>
+		<EndTestTime>1573142027</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

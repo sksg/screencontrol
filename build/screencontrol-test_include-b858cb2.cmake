@@ -1,0 +1,5 @@
+if(EXISTS "/Users/sorgre/workspace/src/screencontrol/build/screencontrol-test_tests-b858cb2.cmake")
+  include("/Users/sorgre/workspace/src/screencontrol/build/screencontrol-test_tests-b858cb2.cmake")
+else()
+  add_test(screencontrol-test_NOT_BUILT-b858cb2 screencontrol-test_NOT_BUILT-b858cb2)
+endif()

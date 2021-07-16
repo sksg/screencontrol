@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/sorgre/workspace/src/screencontrol/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/usr/local/include -I/Users/sorgre/workspace/src/screencontrol/src -I/Users/sorgre/workspace/src/screencontrol/Catch2  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++1z -o CMakeFiles/screencontrol-test.dir/tests/test.cpp.o -c /Users/sorgre/workspace/src/screencontrol/tests/test.cpp",
+  "file": "/Users/sorgre/workspace/src/screencontrol/tests/test.cpp"
+}
+]
